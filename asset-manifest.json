@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.13141d8d.css",
-    "main.js": "/static/js/main.40f66e90.js",
+    "main.css": "/static/css/main.ae5e2ca4.css",
+    "main.js": "/static/js/main.228acee4.js",
     "static/js/787.1f2e063d.chunk.js": "/static/js/787.1f2e063d.chunk.js",
     "static/media/new.png": "/static/media/new.9ea76da161f30a982d48.png",
+    "static/media/ido_logo.png": "/static/media/ido_logo.e9f3d6dda24190530ec8.png",
     "static/media/intro-bg.jpg": "/static/media/intro-bg.4d6c20c49f5df630e5ac.jpg",
     "static/media/contact.jpg": "/static/media/contact.9dc428a0b20c45cad248.jpg",
     "static/media/nomics.jpg": "/static/media/nomics.c67e7d4a08cb802e56e6.jpg",
     "static/media/lgo.svg": "/static/media/lgo.94848abae6389543048bf6ec86b0a936.svg",
     "static/media/pattern.png": "/static/media/pattern.7f5535fbde9d7bc72322.png",
     "index.html": "/index.html",
-    "main.13141d8d.css.map": "/static/css/main.13141d8d.css.map",
-    "main.40f66e90.js.map": "/static/js/main.40f66e90.js.map",
+    "main.ae5e2ca4.css.map": "/static/css/main.ae5e2ca4.css.map",
+    "main.228acee4.js.map": "/static/js/main.228acee4.js.map",
     "787.1f2e063d.chunk.js.map": "/static/js/787.1f2e063d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13141d8d.css",
-    "static/js/main.40f66e90.js"
+    "static/css/main.ae5e2ca4.css",
+    "static/js/main.228acee4.js"
   ]
 }
